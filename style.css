@@ -1,1 +1,15 @@
-2
+.encabezado{
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    color: white;
+    
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    gap: 20px;
+}
