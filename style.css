@@ -116,9 +116,46 @@ a{
 .cierre{
     display: flex;
     justify-content: space-around;
+    background-color: #3882f6;
+    padding: 50px;
 }
 
 .boton{
     display: flex;
     align-items: center;
+}
+
+.call{
+    font-size: 22px;
+    color: white;
+    font-weight: bolder;
+}
+
+.sing{
+    font-size: 18px;
+    color: white;
+}
+
+ul{
+    list-style: none;
+}
+
+#bird, #ardilla, #gato, #rana{
+    height: 150px;
+    width: 150px;
+    border: solid #3882f6;
+    border-width: 5px;
+    border-radius: 20%;
+
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+figcaption{
+    text-align: center;
 }
