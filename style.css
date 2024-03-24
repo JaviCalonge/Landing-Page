@@ -98,6 +98,14 @@ a{
     cursor: pointer;
 }
 
+.button:hover{
+    background-color: lightblue;
+}
+
+.button:active{
+    background-color: darkblue;
+}
+
 .button2{
     width: max-content;
     background-color: #3882f6;
@@ -110,6 +118,14 @@ a{
     max-height:35px; 
     min-width: 120px;
     cursor: pointer;
+}
+
+.button2:hover{
+    background-color: lightblue;
+}
+
+.button2:active{
+    background-color: darkblue;
 }
 
 .imagenes{
