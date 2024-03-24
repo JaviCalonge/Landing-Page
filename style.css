@@ -95,6 +95,7 @@ a{
     border-radius: 8px;
     min-height:30px; 
     min-width: 120px;
+    cursor: pointer;
 }
 
 .button2{
@@ -108,7 +109,7 @@ a{
     border-radius: 8px;
     max-height:35px; 
     min-width: 120px;
-    align-self: center;
+    cursor: pointer;
 }
 
 .imagenes{
